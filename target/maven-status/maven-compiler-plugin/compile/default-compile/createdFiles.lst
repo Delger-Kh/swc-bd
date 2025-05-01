@@ -1,0 +1,5 @@
+com\example\flashcard\App.class
+com\example\flashcard\FlashcardApp.class
+com\example\flashcard\CardOrder.class
+com\example\flashcard\Flashcard.class
+com\example\flashcard\RecentMistakesFirstSorter.class
